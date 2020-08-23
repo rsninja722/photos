@@ -1,4 +1,5 @@
 var filesLarge = [
+"https://i.ibb.co/3SSQhCp/0.jpg",
 "https://i.ibb.co/QdYtV26/1.jpg",
 "https://i.ibb.co/wrG965G/2.jpg",
 "https://i.ibb.co/cgmS706/3.jpg",
@@ -30,6 +31,7 @@ var filesLarge = [
 "https://i.ibb.co/TtpPr6H/29.jpg"
 ];
 var filesSmall = [
+"https://i.ibb.co/RQQdHD3/0.jpg",
 "https://i.ibb.co/PQ10y75/1.jpg",
 "https://i.ibb.co/Z14nTq4/2.jpg",
 "https://i.ibb.co/M2Xx3rc/3.jpg",
