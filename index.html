@@ -63,7 +63,10 @@
                 addButton(">", position+1);
             }
         } else {
-            window.location.href = "https://rsninja.dev/photos/index.html?page=0";
+            console.log(Math.floor(entryAmount/20));
+            console.log(entryAmount/20);
+            debugger
+            window.location.href = "https://rsninja.dev/photos/index.html?page="+Math.floor(entryAmount/20);
         }
 
         function addButton(txt, page) {
