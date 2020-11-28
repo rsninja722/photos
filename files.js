@@ -85,7 +85,9 @@ var filesLarge = [
 "https://i.ibb.co/Nm6SVgS/83.jpg",
 "https://i.ibb.co/B6mdRb6/84.jpg",
 "https://i.ibb.co/1zyZTmC/85.jpg",
-"https://i.ibb.co/Lz5mBHv/86.jpg"
+"https://i.ibb.co/Lz5mBHv/86.jpg",
+"https://i.ibb.co/SsJ093p/87.jpg",
+"https://i.ibb.co/K7R8zVK/88.jpg"
 ];
 var filesSmall = [
 "https://i.ibb.co/vLLRzj3/0.jpg",
@@ -174,5 +176,7 @@ var filesSmall = [
 "https://i.ibb.co/KLjw0cw/83.jpg",
 "https://i.ibb.co/hdkhvbd/84.jpg",
 "https://i.ibb.co/hYQsVmG/85.jpg",
-"https://i.ibb.co/d0gFXx7/86.jpg"
+"https://i.ibb.co/d0gFXx7/86.jpg",
+"https://i.ibb.co/4mJM5Vx/87.jpg",
+"https://i.ibb.co/mt1PFhN/88.jpg"
 ];
